@@ -8,7 +8,7 @@
 
 ### 📫 Onde me encontrar:
 
-- **Email:** felipepimenta05 [at] usp [dot] br
+- **Email:** [felipepimenta05@usp.br](mailto:felipepimenta05@usp.br)
 - **Currículo Lattes:** [lattes.cnpq.br/8115212410068977](http://lattes.cnpq.br/8115212410068977)
 
 ---
