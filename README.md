@@ -8,16 +8,10 @@
 
 ### 📫 Onde me encontrar:
 
-<p>
-  <a href="mailto:felipepimenta05@usp.br" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="http://lattes.cnpq.br/8115212410068977" target="_blank">
-    <img src="https://img.shields.io/badge/Currículo%20Lattes-2E9797?style=for-the-badge" alt="Lattes"/>
-  </a>
-</p>
+- **Email:** felipepimenta05 [at] usp [dot] br
+- **Currículo Lattes:** [lattes.cnpq.br/8115212410068977](http://lattes.cnpq.br/8115212410068977)
 
 ---
 ### 🛠️ Tecnologias e Ferramentas
 
-![My Skills](https://skillicons.dev/icons?i=python,postgres,git,vscode,bash,docker)
+![My Skills](https://skillicons.dev/icons?i=python,postgres,github,vscode,bash,docker)
